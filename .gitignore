@@ -1,4 +1,10 @@
 *.py[cod]
+*swo
+*~
+*swp
+
+venv
+envs.sh
 
 # C extensions
 *.so
